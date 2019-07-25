@@ -1,0 +1,12 @@
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\bin\Debug\prototype.exe.config
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\bin\Debug\prototype.exe
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\bin\Debug\prototype.pdb
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.Properties.Resources.resources
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.csproj.GenerateResource.Cache
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.exe
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.pdb
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.Form1.resources
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.UserControl1.resources
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.UserControl2.resources
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.csprojResolveAssemblyReference.cache
+c:\users\sasa\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.UserControl3.resources
